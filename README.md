@@ -9,6 +9,8 @@ The English Premier League (EPL) 2021–2022 dataset contains rich information a
 
 To make this data suitable for analytical decision-making, this project implements a dimensional model to efficiently query historical match data alongside evolving player statistics.
 
+![ERD](Images/ERD.png)
+
 ---
 
 ## Questions and Challenges Addressed
@@ -67,6 +69,7 @@ To demonstrate the analytical capabilities of the Star Schema, I developed an in
 * **Trend Analysis**: A monthly goal-scoring trend line chart that identifies team momentum throughout the season.
 * **Interactive UI**: A dark-themed, high-contrast interface with centralized slicers for real-time data filtering by team and stadium.
 
+![Dashboard](Images/EPL%20Dashboard.png)
 
 ---
 
@@ -87,7 +90,6 @@ To demonstrate the analytical capabilities of the Star Schema, I developed an in
 ---
 
 ## Proof of Execution
-![Dashboard](Images/EPL%20Dashboard.png)
 ![Job Success](Images/Successful%20Job%20History.png)
 ![CSV Email Alert](Images/CSV%20Email%20Alert.png)
 ![ETL Email Alert](Images/ETL%20Email%20Alert.jpeg)
