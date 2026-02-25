@@ -15,6 +15,7 @@ The English Premier League (EPL) 2021–2022 dataset contains rich information a
 * Many analytical questions require complex aggregations across time, teams, and stadiums—something OLTP systems are not designed to handle efficiently.
 
 To make this data suitable for analytical decision-making, this project implements a dimensional model to efficiently query historical match data alongside evolving player statistics.
+
 ---
 
 ## Questions and Challenges Addressed
