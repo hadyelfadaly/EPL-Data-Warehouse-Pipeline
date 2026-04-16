@@ -109,6 +109,15 @@ To demonstrate the analytical capabilities of the Star Schema, I developed an in
 
 ---
 
+## Team Members
+
+- Hady Hassan El Fadaly - [Github Profile](https://github.com/hadyelfadaly)
+- Hozayfa Ashraf - [Github Profile](https://github.com/HozayfaAshraf)
+- Omar Waleed El Sobky - [Github Profile](https://github.com/Omarsobky)
+- Yassin Mohy Eldin - [Github Profile](https://github.com/Yassin-Mohy)
+
+---
+
 ## Proof of Execution
 The SQL Server Agent job ran successfully on schedule, with email alerts delivered 
 confirming both the CSV staging load and the nightly ETL completion.
