@@ -94,7 +94,6 @@ To demonstrate the analytical capabilities of the Star Schema, I developed an in
   * `PlayerDim + Fact Tables ETLs.sql` - The daily automated ETL script containing the SCD Type 6 procedure, MERGE statements, and job logic.
   * `Analytical Queries.sql` - Answering some of the analytical questions I built this DWH around.
 * `/Dashboards/` - Power BI Dashboard.
-* `Project Requirements.pdf` - Original project requirements.
 * `/Images/` - Architecture diagrams, Dashboards and execution proof.
 
 ---
